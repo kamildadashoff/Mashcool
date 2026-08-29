@@ -1,0 +1,6 @@
+{
+  "name": "MASHCOOL",
+  "description": "İşinizlə məşğuluq. Avtomatlaşdırılmış fərdi vakansiya axtarışı və müraciət platforması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
